@@ -1,0 +1,49 @@
+.section-2 {
+  margin-top: 100px;
+}
+
+.section-2 .ourcollection {
+  text-align: center;
+  background: -webkit-linear-gradient();
+  font-weight: bolder;
+  background: -webkit-linear-gradient(#8c8d90, white);
+  user-select: none;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.list-coffee {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.elm-list img {
+  width: 420px;
+  border-radius: 10px;
+  height: 400px;
+  margin-bottom: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+.section-2 li {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  list-style: none;
+  margin: 5px 10px;
+  margin-top: 50px;
+}
+
+.section-2 p {
+  width: 50%;
+  text-align: Center;
+}
+.section-2 .elm-list h1 {
+  color: #363f45;
+  text-align: center;
+}

@@ -1,0 +1,59 @@
+medidas para pantallas width 2400: 
+textos
+extra grande: 120px
+grande-mediano: 60px;
+ grande: 40px;
+ mediano: 30px;
+ peque;o: 25px;
+
+ medidas para pantallas width 2135:
+ extra grande: 100px;
+ grande: 35px;
+ mediano: 25px;
+ pequeno 22px;
+
+ medidas para pantallas width 2000:
+ extra grande: 90px;
+ grande: 30px;
+ mediano 23px;
+ pequeno 20px;
+ 
+ medidas para pantalla width 1800:
+ extra grande: 80px
+ grande: 27px;
+ mediano: 20px:
+ small: 18px
+
+
+ medidas para pantalla width 1610:
+ extra grande: 70px
+  grande: 25px;
+ mediano: 18px:
+ small: 16px
+
+
+ medidas para pantalla width 1455:
+ extra grande 60px
+ grande 23px;
+ mediano: 18px;
+ small: 16
+
+ a partir de 1080 tablets
+extra grande 50px;
+grande 21px;
+mediano 16px;
+14px;
+ 
+
+
+
+ select from our evolving range of artisan coffees. Our beans are ethically sourced and we pay fair prices for them. 
+ There are new coffees in  all profiles every month for you try out.
+
+
+
+customize you order frequency quantity even your roast style and grind type pause skip or cancel
+ your subscription with no commitment trough our  online portal
+
+ we ship your package within 48 hours freshly roasted. Sit back and enjoy award winning world class coffees
+  curated to provide a distintic tating experience
